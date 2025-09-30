@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaSE.iml" filepath="$PROJECT_DIR$/JavaSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_firstJava/day01_firstJava.iml" filepath="$PROJECT_DIR$/day01_firstJava/day01_firstJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_programFlowControl/day03_programFlowControl.iml" filepath="$PROJECT_DIR$/day03_programFlowControl/day03_programFlowControl.iml" />
     </modules>
   </component>
 </project>
