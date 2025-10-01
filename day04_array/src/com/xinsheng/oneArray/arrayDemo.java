@@ -11,3 +11,4 @@ public class arrayDemo {
         System.out.println(names[index]);
     }
 }
+//dawdaw
