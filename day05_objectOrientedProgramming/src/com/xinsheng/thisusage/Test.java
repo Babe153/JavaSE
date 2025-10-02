@@ -6,5 +6,11 @@ public class Test {
         s1.name = "lxs";
         s1.printThis();
         System.out.println(s1);
+
+        Student s2 = new Student();
+        s2.name = "小刘";
+        s2.printHobby("打游戏");
     }
+
+
 }

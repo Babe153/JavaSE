@@ -6,4 +6,8 @@ public class Student {
     public void printThis(){
         System.out.println(this);
     }
+
+    public void printHobby(String name){
+        System.out.println(this.name + "like" + name);
+    }
 }
