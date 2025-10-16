@@ -19,4 +19,5 @@ class Cats extends Animal{
     public void cry(){
         System.out.println("Cats voice");
     }
+    //方法重载
 }
