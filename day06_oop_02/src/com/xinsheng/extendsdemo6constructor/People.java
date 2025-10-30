@@ -28,4 +28,4 @@ public class People {
         this.name = name;
     }
 
-}//COOL
+}
